@@ -1,7 +1,5 @@
 # ONS — Pilgrim Assistance Platform
 
-# ONS — Pilgrim Assistance Platform
-
 **ONS (أُنس) — A Smart Platform for Assisting Lost Hajj and Umrah Pilgrims**
 
 ONS is a technology-driven project focused on supporting the identification and assistance of lost Hajj and Umrah pilgrims.
