@@ -46,11 +46,11 @@ My contributions to the project include:
 - **Thekra Mahmoud**
 - **Faisal Bageis**
 
-## Security
+## Security and Configuration
 
-Do not commit passwords, API keys, access tokens, or sensitive configuration files to the repository.
-
-Use environment variables or secure configuration mechanisms for private credentials.
+- Keep passwords, API keys, access tokens, and other sensitive credentials out of the repository.
+- Store secrets in environment variables or secure configuration files excluded from version control.
+- Review configuration files before committing changes to ensure that no sensitive information is exposed.
 
 ## Project Scope
 
